@@ -19,7 +19,7 @@ header {
   align-items: center;
   justify-content: space-between;
   height: 80px;
-  background-color: var(--mainColor);
+  /* background-color: var(--mainColor); */
   padding: 0 2rem;
   color: var(--textColor);
 }
@@ -28,6 +28,7 @@ nav a{
     margin: 0 2rem;
     color: var(--textColor);
     text-decoration: none;
+    font-size: 17px;
 }
 
 nav a:hover{
